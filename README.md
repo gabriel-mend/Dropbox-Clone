@@ -32,10 +32,10 @@ Ele tem como destaque o Header que muda de cor e o conteúdo ao passar pelas se�
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/loadingGabriel/Discord-Clone>
+$ git clone <https://github.com/loadingGabriel/Dropbox-Clone.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd discord-clone
+$ cd dropbox-clone
 
 ```
 
