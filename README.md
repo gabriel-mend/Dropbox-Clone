@@ -3,14 +3,17 @@
 <h2 align="center"> 👬 UI-clone do Dropbox!</h2>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="">Tecnologias</a> • 
  <a href="#-como-executar-o-projeto">Como executar o projeto</a> • 
  <a href="#sobre-mim">Autor</a> • 
- <a href="#-agradecimentos">Agradecimentos</a>
+ <a href="">Agradecimentos</a>
 </p>
-<img src="" />
 
-## 🎯 Link do projeto: 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49095200/90315333-15a76d00-def1-11ea-9095-37f1ccde3c41.gif" alt="animated" />
+</p>
+
+## 🎯 Link do projeto: https://clone-dropbox.netlify.app/
 
 ## 💬 Sobre o projeto
 Este projeto é um UI-Clone disponibilizado pela **rocketseat**.
