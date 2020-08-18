@@ -18,7 +18,7 @@
 ## 💬 Sobre o projeto
 Este projeto é um UI-Clone disponibilizado pela **rocketseat**.
 
-Ele tem como destaque o Header que muda de cor e o conteúdo ao passar pelas seções diferentes utilizando utilizando a propriedade ```clip(auto, auto, auto, auto)``` do css, e o SideMenu que em determinada posição da tela ele se oculta pelo scroll do usuário.
+Ele tem como destaque o Header que muda de cor e o conteúdo ao passar pelas seções diferentes utilizando a propriedade ```clip(auto, auto, auto, auto)``` do css, e o SideMenu que em determinada posição da tela ele se oculta pelo scroll do usuário.
 
 ## ⌨️ Tecnologias utilizadas
 * [React JS](https://pt-br.reactjs.org)
